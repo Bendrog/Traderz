@@ -4,6 +4,11 @@
 ## Project available via this URL:  
                         
 [Traderz Platform](https://traderz-e-commerce.herokuapp.com/)
+
+
+Traderz est un projet en binôme réalisé dans le cadre de nos études d'ingénieur. Ce prototype vous permets de trader en temps réel (API Yahoo Finance)  sur les Entreprises du CAC40. 
+
+Une contrainte technique était de ne pas utiliser de framework front-end. Le but du projet étant de développer une web app en utilisant un API, en ayant donc plus un focus sur le backend.
             
 ************************************************************************************************************************************************************************************************************************************************************************************
 
@@ -13,13 +18,3 @@ Gabriel:
 
 Benoît:
 
-
-* ***** TO DO ***** *
-- Changer la fonction du poreufeuille
-- Mettre une limite aux transactions (20% des liquidité OU limite de disponibilité)
-- Faire le bouton pour revendre une action
-- "dynamiser" ce bouton pour qu'il prenne la valeur Vendre ou racheter
-- JavaScript:
-              . Afficher date et heure
-              . Messages d'erreur (inscription ,connexion, mauvais montant etc...)
-              
